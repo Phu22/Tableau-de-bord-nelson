@@ -1,0 +1,84 @@
+
+/*#conteneur{
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1500px;
+}
+
+#haut {
+  display: table-row;
+  background-image: url("../images/bandeau.png");
+  background-repeat:no-repeat;
+  height: 142px;
+}
+
+
+#menuP {
+ font-size: 0px;
+ padding-top: 112px;
+}
+
+#menuP ul{
+ list-style-type: none;
+ padding: 0px;
+ margin: 0px;
+ font-family: Helvetica;
+}
+
+#menuP li{
+	 display: inline;  
+}	
+
+#menuP a{
+ background-color: #ae946f;
+ display: inline-block;
+ text-decoration: none;
+ font-size: 20px;
+ font-weight: bold;
+ color: white;
+ width: 170px;
+ padding: 3px;
+ text-align: center;
+ margin-right: 3px;
+}	
+
+
+#menuP a:hover
+{
+ color: #000000;
+ background-color: #9e998f;
+}
+
+
+#content {
+  display: table-row;
+  display: table;
+  height: 400px;	
+}
+
+#gauche {
+ display: table-cell;
+ background-color: #d98860;
+ vertical-align: top;
+ width: 300px;
+ height: 100%;
+}	
+
+
+#droite {
+ display: table-cell;
+ background-color: #ddbd42;
+ height: 100%;
+  width: 1200px;
+}	
+
+
+#bas {
+ display: table-row;
+ background-color: #d98860;
+}	
+
+#zoneDessin{
+ //overflow:auto ;	
+}*/
